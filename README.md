@@ -13,10 +13,15 @@
 <hr />
 
 <h1>Infos</h1>
-  [![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruninho2104)]
-  <!-- <a href="https://github.com/Bruninho2104/github-readme-stats">
+<div>
+  <a href="https://github.com/Bruninho2104/github-readme-stats">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Bruninho2104&amp;theme=github_dark&amp;show_icons=true&amp;" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/Bruninho2104/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho2104&amp;theme=github_dark&amp;" alt="Top Langs">
-  </a> -->
+  </a>
+</div>
+
 <hr />
 
 <div align="center">
