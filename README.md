@@ -10,7 +10,7 @@
 - 📝 I'm a Automation Test Analyst | QA |, with knowledge in Front-end and Back-end.
 - 💻 I currently use Cypress framework for automation tests and Cucumber, but i already used Java, Selenium and Restassured.
 
-<hr />
+<!-- <hr />
 
 <h1>Infos</h1>
 <div>
@@ -20,7 +20,7 @@
   <a href="https://github.com/Bruninho2104/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho2104&amp;theme=github_dark&amp;" alt="Top Langs">
   </a>
-</div>
+</div> -->
 
 <hr />
 
