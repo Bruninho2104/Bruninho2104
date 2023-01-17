@@ -7,7 +7,7 @@
 
 <h1>👋 Hi, I'm Bruno.</h1>
 
-- 📝 I'm a Automation Test Analyst | QA |, with knowledge in Front-end and Back-end.
+- 📝 I'm an Automation Test Analyst | QA |, with knowledge in Front-end and Back-end.
 - 💻 I currently use Cypress framework for automation tests and Cucumber, but i already used Java, Selenium and Restassured.
 
 <hr />
