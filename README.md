@@ -15,7 +15,7 @@
 <h1>Infos</h1>
 <div>
   <a href="https://github.com/Bruninho2104/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Bruninho2104&amp;theme=cobalt&amp;show_icons=true&amp;count_private=true&amp;" alt="GitHub Stats">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Bruninho2104&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
   </a>
   <a href="https://github.com/Bruninho2104/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho2104&amp;theme=cobalt&amp;layout=compact&amp;" alt="Top Langs">
