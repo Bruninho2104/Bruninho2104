@@ -18,7 +18,7 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=Bruninho2104&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
   </a>
   <a href="https://github.com/Bruninho2104/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho2104&amp;theme=cobalt&amp;layout=compact&amp;" alt="Top Langs">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho2104&theme=cobalt&layout=compact" alt="Top Langs">
   </a>
 </div>
 
