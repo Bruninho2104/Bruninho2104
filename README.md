@@ -17,7 +17,6 @@
   <!-- <a href="https://github.com/Bruninho2104/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho2104&amp;theme=github_dark&amp;" alt="Top Langs">
   </a> -->
-
 <hr />
 
 <div align="center">
