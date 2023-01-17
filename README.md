@@ -21,7 +21,6 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho2104&theme=cobalt&layout=compact" alt="Top Langs">
   </a>
 </div>
-
 <hr />
 
 <div align="center">
