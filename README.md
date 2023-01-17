@@ -13,12 +13,10 @@
 <hr />
 
 <h1>Infos</h1>
-<div>
   [![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruninho2104)](https://github.com/Bruninho2104/github-readme-stats)
   <!-- <a href="https://github.com/Bruninho2104/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho2104&amp;theme=github_dark&amp;" alt="Top Langs">
   </a> -->
-</div>
 
 <hr />
 
