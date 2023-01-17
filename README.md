@@ -13,12 +13,15 @@
 <hr />
 
 <h1>Infos</h1>
+<div>
   <a href="https://github.com/Bruninho2104/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bruninho2104&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
   </a>
+<hr />
   <a href="https://github.com/Bruninho2104/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruninho2104&theme=tokyonight&layout=compact" alt="Top Langs">
   </a>
+</div>
 <hr />
 
 <div align="center">
