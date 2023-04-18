@@ -1,7 +1,7 @@
 <h1>👋 Oi, sou Bruno.</h1>
 
 - 📝 Sou Analista de testes automatizados | QA |, com conhecimento tanto em Front-end como Back-end.
-- 💻 Uso atualmente o framework Cypress para automação de testes e o Cucumber, mas já utilizei Java, Selenium and Restassured.
+- 💻 Uso atualmente o framework Cypress para automação de testes e o Cucumber, mas já utilizei Java, Selenium e Restassured.
 
 <hr />
 
