@@ -28,19 +28,14 @@
     <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" height="40" width="40" alt="restassured logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" height="40" width="52" alt="k6 logo"  />
     
-  </div>
-  <div>
   <h3>Front-end:</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css&perline=4)](https://skillicons.dev)
 
-  </div>
-  <div>
   <h3>Others:</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=vscode,git,postgres,mysql,spring,figma,eclipse&perline=4)](https://skillicons.dev)
 
-  </div>
 </section>
 
 #
