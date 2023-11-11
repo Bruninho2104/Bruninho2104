@@ -36,7 +36,7 @@
   [![My Skills](https://skillicons.dev/icons?i=vscode,git,postgres,mysql,spring,figma,eclipse)](https://skillicons.dev)
 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" height="40" width="52" alt="postman logo"  />
-  <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira logo"  />
+  <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="40" width="60" alt="Jira logo"  />
 </section>
 
 #
