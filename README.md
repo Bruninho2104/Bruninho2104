@@ -16,7 +16,7 @@
 
 <h3>Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,cs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,cs,cucumber&perline=3)](https://skillicons.dev)
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Gherkin-Dark.svg" height="40" width="52" alt="gherkin logo"  />
     
 
