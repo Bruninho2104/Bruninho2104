@@ -17,13 +17,14 @@
 <h3>Languages:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,cs&perline=3)](https://skillicons.dev)
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Gherkin-Dark.svg" height="50" width="52" alt="gherkin logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Gherkin-Dark.svg" height="49" width="52" alt="gherkin logo"  />
     
 
 <h3>Automation:</h3>
   <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
   <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" height="40" width="40" alt="restassured logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" height="40" width="52" alt="k6 logo"  />
+  <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" height="40" width="52" alt="JUnit logo"  />
 
   [![My Skills](https://skillicons.dev/icons?i=selenium&perline=3)](https://skillicons.dev)    
 
@@ -37,6 +38,8 @@
 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" height="40" width="52" alt="postman logo"  />
   <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="40" width="40" alt="Jira logo"  />
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b" height="40" width="40" alt="Strapi logo"  />
+  
 </section>
 
 #
