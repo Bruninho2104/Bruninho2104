@@ -13,50 +13,34 @@
 
 ## Technologies: 👨‍💻
 
-<div>
+
 <h3>Languages:</h3>
-  <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  /> -->
-  [![My Skills](https://skillicons.dev/icons?i=js,java,cs,react,vue,flutter&perline=3)](https://skillicons.dev)
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" height="40" width="52" alt="java logo"  />
+
+[![My Skills](https://skillicons.dev/icons?i=js,java,cs,react,vue,flutter&perline=3)](https://skillicons.dev)
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Gherkin-Dark.svg" height="40" width="52" alt="gherkin logo"  />
     
-  <div>
-<h3>Automation:</h3>
-   <!-- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg" height="40" width="52" alt="selenium logo"  /> -->
-    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
-  [![My Skills](https://skillicons.dev/icons?i=selenium&perline=3)](https://skillicons.dev)
-    <!-- <img src="https://www.svgrepo.com/show/374049/robotframework.svg" height="40" width="52" alt="robot logo"  /> -->
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" height="40" width="52" alt="postman logo"  />
-    <!--<img src="https://www.svgrepo.com/show/353413/appium.svg" height="40" width="52" alt="appium logo"  /> -->
-    <!--<img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" height="40" width="40" alt="restassured logo"  />-->
-    <!--<img src="https://www.svgrepo.com/download/232655/capybara.svg" height="40" width="52" alt="capybara logo"  />-->
 
+<h3>Automation:</h3>
+    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
+
+  [![My Skills](https://skillicons.dev/icons?i=selenium&perline=3)](https://skillicons.dev)
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" height="40" width="52" alt="postman logo"  />
+    <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" height="40" width="40" alt="restassured logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" height="40" width="52" alt="k6 logo"  />
     
   </div>
   <div>
   <h3>Front-end:</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css&perline=4)](https://skillicons.dev)
+
   </div>
   <div>
   <h3>Others:</h3>
-   <!-- <img src="https://home.apache.org/~fschumacher/jmeter3.svg" height="30" width="90" alt="jmeter logo"  />-->
-    <!--<img src="https://locust.io/static/img/logo.png" height="25" width="120" alt="locust logo"  />-->
-    <!--<img src="https://www.svgrepo.com/show/353838/graylog-icon.svg" height="40" width="52" alt="graylog logo"  />-->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  /> -->
-    <!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Idea-Dark.svg" height="40" width="52" alt="Intelijj IDEA logo"  />-->
-    <!-- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" height="40" width="52" alt="docker logo" /> -->
-    <!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Jenkins-Dark.svg" height="40" width="52" alt="jenkins logo" />-->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-    <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" height="40" width="52" alt="slq server logo"  />
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" height="40" width="52" alt="figma logo" /> -->
-  
+
+  [![My Skills](https://skillicons.dev/icons?i=vscode,git,postgres,mysql,spring,figma,eclipse&perline=4)](https://skillicons.dev)
 
   </div>
-  [![My Skills](https://skillicons.dev/icons?i=vscode,git,postgres,mysql,spring,figma,eclipse&perline=4)](https://skillicons.dev)
 </section>
 
 #
