@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2C8BBF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Bruno+Tabatini+;I'm+from+Brasil,+São+Paulo-SP+🗺;I+am+a+Automated+QA+Analyst+;Be+Welcome!+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Bruno+Tabatini+;I'm+from+Brasil,+São+Paulo-SP+🗺;I+am+an+Automated+QA+Analyst+;Be+Welcome!+🥰)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Bruninho2104">
@@ -16,11 +16,8 @@
 <div>
 <h3>Languages:</h3>
   <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  /> -->
+  [![My Skills](https://skillicons.dev/icons?i=js,java,cs,react,vue,flutter&perline=3)](https://skillicons.dev)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-    <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" height="40" width="52" alt="slq server logo"  />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" height="40" width="52" alt="java logo"  />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Gherkin-Dark.svg" height="40" width="52" alt="gherkin logo"  />
     
@@ -28,6 +25,7 @@
 <h3>Automation:</h3>
    <!-- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg" height="40" width="52" alt="selenium logo"  /> -->
     <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
+  [![My Skills](https://skillicons.dev/icons?i=selenium&perline=3)](https://skillicons.dev)
     <!-- <img src="https://www.svgrepo.com/show/374049/robotframework.svg" height="40" width="52" alt="robot logo"  /> -->
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" height="40" width="52" alt="postman logo"  />
     <!--<img src="https://www.svgrepo.com/show/353413/appium.svg" height="40" width="52" alt="appium logo"  /> -->
@@ -47,12 +45,16 @@
    <!-- <img src="https://home.apache.org/~fschumacher/jmeter3.svg" height="30" width="90" alt="jmeter logo"  />-->
     <!--<img src="https://locust.io/static/img/logo.png" height="25" width="120" alt="locust logo"  />-->
     <!--<img src="https://www.svgrepo.com/show/353838/graylog-icon.svg" height="40" width="52" alt="graylog logo"  />-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  /> -->
     <!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Idea-Dark.svg" height="40" width="52" alt="Intelijj IDEA logo"  />-->
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" height="40" width="52" alt="docker logo" />
+    <!-- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" height="40" width="52" alt="docker logo" /> -->
     <!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Jenkins-Dark.svg" height="40" width="52" alt="jenkins logo" />-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-   <!-- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" height="40" width="52" alt="figma logo" />-->
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+    <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" height="40" width="52" alt="slq server logo"  />
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" height="40" width="52" alt="figma logo" /> -->
+  [![My Skills](https://skillicons.dev/icons?i=vscode,git,postgres,mysql,spring,figma,eclipse&perline=4)](https://skillicons.dev)
+
   </div>
 </section>
 
@@ -62,15 +64,9 @@
 <h3>Contact-me:</h3>
 <a href="https://github.com/Bruninho2104" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2C8BBF?style=for-the-badge&logo=p&logoColor=white"></a>
 <a href="mailto:bruno.tabatini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-2C8BBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/Bruninho2104-qa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<!--<a href="https://contate.me/christopherqa" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-A20D02?style=for-the-badge&logo=whatsapp&logoColor=white">--></a>
+<a href="https://www.linkedin.com/in/bruno-de-araujo-tabatini-2465b520b/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 #
-
-<div align="center">
-  <h3>Visitors Count:</h3>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bruninho2104}/count.svg" /></p> 
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2C8BBF&height=120&section=footer"/>
