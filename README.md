@@ -40,6 +40,8 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" height="40" width="52" alt="postman logo"  />
   <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="40" width="40" alt="Jira logo"  />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b" height="40" width="40" alt="Strapi logo"  />
+  <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" height="40" width="40" alt="CI/CD logo"  />
+  <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" height="40" width="40" alt="GCP logo"  />
   
 </section>
 
