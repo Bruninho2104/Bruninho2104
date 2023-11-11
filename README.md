@@ -21,12 +21,13 @@
     
 
 <h3>Automation:</h3>
-  <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
-  <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" height="40" width="40" alt="restassured logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" height="40" width="52" alt="k6 logo"  />
-  <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" height="40" width="52" alt="JUnit logo"  />
 
   [![My Skills](https://skillicons.dev/icons?i=selenium&perline=3)](https://skillicons.dev)    
+    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
+    <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" height="40" width="40" alt="restassured logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" height="40" width="52" alt="k6 logo"  />
+    <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" height="40" width="52" alt="JUnit logo"  />
+
 
 <h3>Front-end:</h3>
 
