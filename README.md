@@ -21,19 +21,19 @@
     
 
 <h3>Automation:</h3>
-  
-[![My Skills](https://skillicons.dev/icons?i=selenium&perline=3)](https://skillicons.dev)    
-<img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" height="40" width="40" alt="restassured logo"  />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" height="40" width="52" alt="k6 logo"  />
-<img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" height="40" width="40" alt="restassured logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" height="40" width="52" alt="k6 logo"  />
+  <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
 
-  <h3>Front-end:</h3>
+  [![My Skills](https://skillicons.dev/icons?i=selenium&perline=3)](https://skillicons.dev)    
+
+<h3>Front-end:</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css&perline=4)](https://skillicons.dev)
 
   <h3>Others:</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=vscode,git,postgres,mysql,spring,figma,eclipse&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,git,postgres,mysql,spring,figma,eclipse)](https://skillicons.dev)
 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" height="40" width="52" alt="postman logo"  />
 </section>
