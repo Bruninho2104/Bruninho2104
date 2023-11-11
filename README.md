@@ -53,9 +53,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
     <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" height="40" width="52" alt="slq server logo"  />
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" height="40" width="52" alt="figma logo" /> -->
-  [![My Skills](https://skillicons.dev/icons?i=vscode,git,postgres,mysql,spring,figma,eclipse&perline=4)](https://skillicons.dev)
+  
 
   </div>
+  [![My Skills](https://skillicons.dev/icons?i=vscode,git,postgres,mysql,spring,figma,eclipse&perline=4)](https://skillicons.dev)
 </section>
 
 #
