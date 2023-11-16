@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2C8BBF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Bruno+Tabatini+;I'm+from+Brasil,+São+Paulo-SP+🗺;I+am+an+Automated+QA+Analyst+;Be+Welcome!+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Bruno+Tabatini+;I'm+from+Brazil,+São+Paulo-SP+🗺;I+am+an+Automated+QA+Analyst+;Be+Welcome!+🥰)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Bruninho2104">
